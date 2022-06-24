@@ -1,3 +1,3 @@
 export const Wrapper = ({ children }) => {
-  return <div>{children}</div>;
+  return <div id="wrapper">{children}</div>;
 };
